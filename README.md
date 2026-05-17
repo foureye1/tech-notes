@@ -20,3 +20,7 @@ To improve my:
 
 ## Notes Added
 - Python Strings Basics
+
+## Published Articles
+
+- My First Python Program and What I Learned [Read on Medium](https://medium.com/@utdk256/my-first-python-program-and-what-i-learned-e240fc3fe2ac)
